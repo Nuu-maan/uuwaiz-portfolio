@@ -1,45 +1,60 @@
-# My Portfolio
+<h1>My Portfolio</h1>
 
-Welcome to my portfolio! This project showcases my web development skills and projects.
+<p>Welcome to my portfolio! This project showcases my web development skills and projects.</p>
 
-## Table of Contents
+<h2>Table of Contents</h2>
 
-- Description
-- Installation
-- Contributing
-- License
-- Contact
-- About Me
+<ul>
+  <li><a href="#description">Description</a></li>
+  <li><a href="#installation">Installation</a></li>
+  <li><a href="#contributing">Contributing</a></li>
+  <li><a href="#license">License</a></li>
+  <li><a href="#contact">Contact</a></li>
+  <li><a href="#about-me">About Me</a></li>
+</ul>
 
-## Description
+<h4 id="description">Description</h4>
 
-This portfolio website was built using HTML, CSS, and JavaScript. It includes sections for an "About Me," project highlights, and contact information.
+<p>This portfolio website was built using HTML, CSS, and JavaScript. It includes sections for an "About Me," project highlights, and contact information.</p>
 
-## Installation
+<h4 id="installation">Installation</h4>
 
-1. Clone this repository:
+<ol>
+  <li>Clone this repository:</li>
+</ol>
 
-git clone https://github.com/Nuu-maan/uuwaiz-portfolio.git
+<pre><code>git clone https://github.com/Nuu-maan/uuwaiz-portfolio.git
+</code></pre>
 
+<ol start="2">
+  <li>Navigate to the project folder:</li>
+</ol>
 
-2. Navigate to the project folder:
+<pre><code>cd uuwaiz-portfolio
+</code></pre>
 
-cd uuwaiz.portfolio
+<ol start="3">
+  <li>Navigate to the js folder:</li>
+</ol>
 
-3. Navigate to js folder
-cd js
+<pre><code>cd js
+</code></pre>
 
-4. Start server
-  node server.js
+<ol start="4">
+  <li>Start server:</li>
+</ol>
 
+<pre><code>node server.js
+</code></pre>
 
-5. Open `index.html` in your browser.
+<ol start="5">
+  <li>Open <code>index.html</code> in your browser.</li>
+</ol>
 
+<h4 id="license">License</h4>
 
-## License
+<p>This project is licensed under the MIT License. See the LICENSE file for details.</p>
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+<h4 id="contact">Contact</h4>
 
-## Contact
-
-Feel free to reach out to me via email `helloo@contactnuman.xyz` 
+<p>Feel free to reach out to me via email <a href="mailto:helloo@contactnuman.xyz">helloo@contactnuman.xyz</a>.</p>
